@@ -1,0 +1,34 @@
+* Let's keep stuff organised
+Repository created to gather all stuff related to c++ programming 
+
+** Data Structures
+   Created with common implementation
+   Most important rule : there is no tests it means it does not work!
+
+*** Stack
+**** array
+**** single linked list
+   
+
+*** List
+**** Single linked
+**** Double linked
+**** TODO Xor List
+
+*** TODO Ring buffer
+   
+*** TODO Queue
+*** TODO Tree
+*** Upcomming more
+    
+** Algorithms
+*** TODO Create description
+
+** Testing methodologies
+*** TODO Create description
+
+** Refactoring
+*** TODO Create description
+
+** Design patterns
+*** TODO Create description
