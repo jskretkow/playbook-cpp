@@ -10,7 +10,7 @@ class StackArray {
 public:
     constexpr static uint32_t CAPACITY{4};
 
-    void display()
+    void display() const
     {
         if (isEmpty())
         {

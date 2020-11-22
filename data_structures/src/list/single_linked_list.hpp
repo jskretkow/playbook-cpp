@@ -65,7 +65,10 @@ public:
         delete currentHead;
         nodeCount--;
         if (head == nullptr)
+        {
             tail = head;
+            assert(nodeCount == 0);
+        }
         return true;
     }
 
@@ -105,7 +108,7 @@ public:
         return true;
     }
 
-    void display()
+    void display() const
     {
         Node<T>* current = head;
         if (head != nullptr)
